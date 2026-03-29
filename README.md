@@ -250,8 +250,8 @@ $$\text{GRI} = 0.4 \cdot (1 - S_f) + 0.4 \cdot (1 - C_r) + 0.2 \cdot \text{Confl
 | 예방의학 전문가 / Preventive Medicine | 생활습관 장기 영향 | WHO (2022); Khaw et al. (2008) |
 | 준법 감시인 / Compliance Officer | 공정성, 설명가능성, 소비자 보호 | Jobin et al. (2019); EU AI Act (2024) |
 
-에이전트별 시스템 프롬프트 전문은 `3_지능형언더라이팅실증_공개ver.ipynb` 내부를 참조하세요.  
-Full system prompt definitions are included in `3_지능형언더라이팅실증_공개ver.ipynb`.
+에이전트별 시스템 프롬프트 전문은 `3_지능형_언더라이팅_실증_공개ver.ipynb` 내부를 참조하세요.  
+Full system prompt definitions are included in `3_지능형_언더라이팅_실증_공개ver.ipynb`.
 
 ---
 

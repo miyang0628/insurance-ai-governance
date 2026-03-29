@@ -1,19 +1,3 @@
-# 레퍼지토리 이름 (Repository Name)
-
-```
-insurance-ai-governance
-```
-
-GitHub 표시 전체 이름:
-```
-insurance-ai-governance — 보험업권 지능형 언더라이팅 AI 거버넌스 실증
-```
-
----
-
-# README.md
-
----
 
 # 🏛️ insurance-ai-governance
 

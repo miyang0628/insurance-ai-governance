@@ -1,0 +1,520 @@
+﻿개인아이디,정보손실률,변수명,원본값,추출값,오차,수치형,환각유형,오류원인,세부유형,변수유형
+A802279901,0.0159999999999997,고콜레스테롤혈증 유병여부,정상,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+D801346201,0.0159999999999997,이상지질혈증 약복용 여부,복용하지않음,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+K803286701,0.0159999999999997,이상지질혈증 약복용 여부,비해당,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+M802279902,0.2398532110091743,비만 유병여부,2단계비만,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+M802279902,0.2398532110091743,1년간 체중 변화 여부,체중증가,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+M802279902,0.2398532110091743,1년간 음주빈도,주4회정도,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+M802279902,0.2398532110091743,한번에 마시는 음주량,10잔이상,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+M802279902,0.2398532110091743,현재 일반담배 흡연 여부,매일피움,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+M802279902,0.2398532110091743,유산소 신체활동 실천율,미실천,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+M802279902,0.2398532110091743,아침식사 빈도,거의안함,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+M802279902,0.2398532110091743,평소 스트레스 인지 정도,거의느끼지않음,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+M802279902,0.2398532110091743,혈압조절제 복용 여부,비해당,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+M802279902,0.2398532110091743,당뇨병약 복용 여부,비해당,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+M802279902,0.2398532110091743,이상지질혈증 약복용 여부,비해당,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+M802279902,0.2398532110091743,당뇨병 유병여부,정상,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+M802279902,0.2398532110091743,고혈압 유병여부,결측치,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+M802279902,0.2398532110091743,고콜레스테롤혈증 유병여부,정상,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+N802346201,1.0,최종 수축기 혈압,131.0,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+N802346201,1.0,최종 이완기 혈압,92.0,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+N802346201,1.0,체질량지수,28.27312909617436,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+N802346201,1.0,허리둘레,85.4,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+N802346201,1.0,공복혈당,119.0,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+N802346201,1.0,당화혈색소,6.1,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+N802346201,1.0,총콜레스테롤,166.0,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+N802346201,1.0,HDL-콜레스테롤,50.0,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+N802346201,1.0,중성지방,206.0,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+N802346201,1.0,LDL-콜레스테롤(직접검사),82.0,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+N802346201,1.0,비만 유병여부,1단계비만,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+N802346201,1.0,1년간 체중 변화 여부,변화없음,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+N802346201,1.0,1년간 음주빈도,월1회정도,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+N802346201,1.0,한번에 마시는 음주량,1-2잔,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+N802346201,1.0,현재 일반담배 흡연 여부,비해당,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+N802346201,1.0,유산소 신체활동 실천율,실천,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+N802346201,1.0,아침식사 빈도,주3-4회,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+N802346201,1.0,평소 스트레스 인지 정도,조금느끼는편임,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+N802346201,1.0,혈압조절제 복용 여부,비해당,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+N802346201,1.0,당뇨병약 복용 여부,비해당,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+N802346201,1.0,이상지질혈증 약복용 여부,비해당,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+N802346201,1.0,당뇨병 유병여부,결측치,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+N802346201,1.0,고혈압 유병여부,결측치,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+N802346201,1.0,고콜레스테롤혈증 유병여부,정상,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+A901347902,0.0159999999999997,아침식사 빈도,주5-7회,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+B908461801,0.0159999999999997,아침식사 빈도,주5-7회,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+D904346202,0.4723333333333332,당화혈색소,5.4,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+D904346202,0.4723333333333332,총콜레스테롤,231.0,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+D904346202,0.4723333333333332,HDL-콜레스테롤,41.0,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+D904346202,0.4723333333333332,중성지방,451.0,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+D904346202,0.4723333333333332,LDL-콜레스테롤(직접검사),105.0,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+D904346202,0.4723333333333332,비만 유병여부,1단계비만,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+D904346202,0.4723333333333332,1년간 체중 변화 여부,체중증가,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+D904346202,0.4723333333333332,1년간 음주빈도,주4회정도,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+D904346202,0.4723333333333332,한번에 마시는 음주량,10잔이상,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+D904346202,0.4723333333333332,현재 일반담배 흡연 여부,과거에는피웠으나현재안피움,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+D904346202,0.4723333333333332,유산소 신체활동 실천율,미실천,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+D904346202,0.4723333333333332,아침식사 빈도,거의안함,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+D904346202,0.4723333333333332,평소 스트레스 인지 정도,많이느낌,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+D904346202,0.4723333333333332,혈압조절제 복용 여부,비해당,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+D904346202,0.4723333333333332,당뇨병약 복용 여부,비해당,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+D904346202,0.4723333333333332,이상지질혈증 약복용 여부,비해당,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+D904346202,0.4723333333333332,당뇨병 유병여부,결측치,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+D904346202,0.4723333333333332,고혈압 유병여부,결측치,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+D904346202,0.4723333333333332,고콜레스테롤혈증 유병여부,정상,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+D904371703,0.0159999999999997,아침식사 빈도,주3-4회,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+F903334302,0.0159999999999997,아침식사 빈도,주5-7회,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+H901381901,0.0159999999999997,고콜레스테롤혈증 유병여부,정상,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+H911356401,0.0159999999999997,아침식사 빈도,주5-7회,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+H918206802,0.0159999999999997,아침식사 빈도,주1-2회,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+H941383601,0.0159999999999997,아침식사 빈도,주5-7회,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YA01240602,0.0159999999999997,아침식사 빈도,주3-4회,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YA02402302,0.0159999999999997,LDL-콜레스테롤(직접검사),98.0,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YA04236502,0.0319999999999998,아침식사 빈도,주5-7회,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YA04236502,0.0319999999999998,평소 스트레스 인지 정도,조금느끼는편임,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YA06388201,0.0159999999999997,평소 스트레스 인지 정도,많이느낌,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YA13414501,0.0159999999999997,아침식사 빈도,거의안함,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YA17469102,0.0159999999999997,아침식사 빈도,거의안함,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YA17487302,0.0159999999999997,아침식사 빈도,거의안함,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YA21311301,0.0159999999999997,유산소 신체활동 실천율,실천,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YA25254701,0.0159999999999997,아침식사 빈도,주5-7회,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YA26222402,0.0159999999999997,아침식사 빈도,거의안함,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YA26230504,0.0159999999999997,아침식사 빈도,주1-2회,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YA26246601,0.0159999999999997,한번에 마시는 음주량,7-9잔,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YA39210202,0.0159999999999997,아침식사 빈도,주5-7회,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YA39299201,0.0159999999999997,아침식사 빈도,거의안함,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YA45343701,0.0159999999999997,아침식사 빈도,주3-4회,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YA45386203,0.0159999999999997,아침식사 빈도,주3-4회,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YB03406401,0.0159999999999997,아침식사 빈도,주5-7회,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YB25525703,0.0319999999999998,아침식사 빈도,거의안함,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YB25525703,0.0319999999999998,평소 스트레스 인지 정도,대단히많이느낌,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YB28473101,0.0159999999999997,아침식사 빈도,주5-7회,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YB40418501,0.0159999999999997,아침식사 빈도,주5-7회,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YC13394202,0.0159999999999997,HDL-콜레스테롤,58.0,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YD26444801,0.0159999999999997,아침식사 빈도,주5-7회,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YD27378104,0.0160290764896262,평소 스트레스 인지 정도,조금느끼는편임,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YD38335602,0.0159999999999997,아침식사 빈도,주5-7회,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YD39220301,0.0159999999999997,아침식사 빈도,주5-7회,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YD40513502,0.0159999999999997,아침식사 빈도,거의안함,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YE26424601,0.0159999999999997,아침식사 빈도,주5-7회,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YH03238501,0.0319999999999998,LDL-콜레스테롤(직접검사),161.0,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YH03238501,0.0319999999999998,아침식사 빈도,주5-7회,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YH03483201,0.0159999999999997,이상지질혈증 약복용 여부,비해당,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YH04230502,0.0159999999999997,아침식사 빈도,주5-7회,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YH07293102,0.0159999999999997,아침식사 빈도,주5-7회,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YH09473102,0.0159999999999997,아침식사 빈도,주3-4회,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YH12283002,0.0159999999999997,아침식사 빈도,주5-7회,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YH12291101,0.0159999999999997,아침식사 빈도,주5-7회,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YH25402302,0.0159999999999997,현재 일반담배 흡연 여부,비해당,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YH26442801,0.0159999999999997,고콜레스테롤혈증 유병여부,정상,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YH28218301,0.0159999999999997,아침식사 빈도,거의안함,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YH29414502,0.0159999999999997,아침식사 빈도,주5-7회,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YH42420501,0.0159999999999997,당화혈색소,5.8,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YI26372002,0.0159999999999997,아침식사 빈도,주3-4회,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YI38250702,1.0,최종 수축기 혈압,132.0,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YI38250702,1.0,최종 이완기 혈압,65.5,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YI38250702,1.0,체질량지수,32.70938910982333,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YI38250702,1.0,허리둘레,103.0,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YI38250702,1.0,공복혈당,91.0,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YI38250702,1.0,당화혈색소,5.9,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YI38250702,1.0,총콜레스테롤,241.0,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YI38250702,1.0,HDL-콜레스테롤,59.0,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YI38250702,1.0,중성지방,136.0,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YI38250702,1.0,LDL-콜레스테롤(직접검사),159.0,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YI38250702,1.0,비만 유병여부,2단계비만,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YI38250702,1.0,1년간 체중 변화 여부,변화없음,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YI38250702,1.0,1년간 음주빈도,월1회미만,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YI38250702,1.0,한번에 마시는 음주량,1-2잔,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YI38250702,1.0,현재 일반담배 흡연 여부,비해당,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YI38250702,1.0,유산소 신체활동 실천율,미실천,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YI38250702,1.0,아침식사 빈도,주3-4회,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YI38250702,1.0,평소 스트레스 인지 정도,조금느끼는편임,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YI38250702,1.0,혈압조절제 복용 여부,매일복용함,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YI38250702,1.0,당뇨병약 복용 여부,비해당,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YI38250702,1.0,이상지질혈증 약복용 여부,비해당,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YI38250702,1.0,당뇨병 유병여부,결측치,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YI38250702,1.0,고혈압 유병여부,고혈압,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YI38250702,1.0,고콜레스테롤혈증 유병여부,고콜레스테롤혈증,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YI38426601,0.0159999999999997,아침식사 빈도,주5-7회,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YI38444802,0.0159999999999997,아침식사 빈도,주5-7회,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YI38446801,0.0159999999999997,아침식사 빈도,주5-7회,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YJ01394202,0.0159999999999997,아침식사 빈도,주3-4회,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YJ13226401,0.0159999999999997,아침식사 빈도,주5-7회,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YJ14252701,0.0159999999999997,아침식사 빈도,주3-4회,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YK01416501,0.0159999999999997,당화혈색소,5.9,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YK02368001,0.0159999999999997,아침식사 빈도,주5-7회,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YK25266902,0.0159999999999997,아침식사 빈도,주5-7회,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YL38307302,0.0159999999999997,아침식사 빈도,주5-7회,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YL38438701,1.0,최종 수축기 혈압,124.0,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YL38438701,1.0,최종 이완기 혈압,81.5,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YL38438701,1.0,체질량지수,22.981703691148883,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YL38438701,1.0,허리둘레,85.6,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YL38438701,1.0,공복혈당,118.0,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YL38438701,1.0,당화혈색소,6.5,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YL38438701,1.0,총콜레스테롤,130.0,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YL38438701,1.0,HDL-콜레스테롤,48.0,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YL38438701,1.0,중성지방,139.0,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YL38438701,1.0,LDL-콜레스테롤(직접검사),61.0,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YL38438701,1.0,비만 유병여부,정상,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YL38438701,1.0,1년간 체중 변화 여부,변화없음,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YL38438701,1.0,1년간 음주빈도,월1회미만,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YL38438701,1.0,한번에 마시는 음주량,1-2잔,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YL38438701,1.0,현재 일반담배 흡연 여부,비해당,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YL38438701,1.0,유산소 신체활동 실천율,미실천,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YL38438701,1.0,아침식사 빈도,주5-7회,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YL38438701,1.0,평소 스트레스 인지 정도,조금느끼는편임,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YL38438701,1.0,혈압조절제 복용 여부,비해당,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YL38438701,1.0,당뇨병약 복용 여부,복용,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YL38438701,1.0,이상지질혈증 약복용 여부,매일복용함,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YL38438701,1.0,당뇨병 유병여부,당뇨병,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YL38438701,1.0,고혈압 유병여부,결측치,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YL38438701,1.0,고콜레스테롤혈증 유병여부,고콜레스테롤혈증,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YL38452901,0.0159999999999997,한번에 마시는 음주량,3-4잔,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YL39234502,1.0,최종 수축기 혈압,167.5,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YL39234502,1.0,최종 이완기 혈압,84.0,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YL39234502,1.0,체질량지수,24.640096815627107,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YL39234502,1.0,허리둘레,81.7,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YL39234502,1.0,공복혈당,123.0,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YL39234502,1.0,당화혈색소,5.6,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YL39234502,1.0,총콜레스테롤,215.0,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YL39234502,1.0,HDL-콜레스테롤,57.0,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YL39234502,1.0,중성지방,233.0,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YL39234502,1.0,LDL-콜레스테롤(직접검사),122.0,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YL39234502,1.0,비만 유병여부,비만전단계,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YL39234502,1.0,1년간 체중 변화 여부,변화없음,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YL39234502,1.0,1년간 음주빈도,주2-3회정도,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YL39234502,1.0,한번에 마시는 음주량,3-4잔,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YL39234502,1.0,현재 일반담배 흡연 여부,비해당,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YL39234502,1.0,유산소 신체활동 실천율,실천,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YL39234502,1.0,아침식사 빈도,거의안함,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YL39234502,1.0,평소 스트레스 인지 정도,대단히많이느낌,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YL39234502,1.0,혈압조절제 복용 여부,비해당,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YL39234502,1.0,당뇨병약 복용 여부,비해당,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YL39234502,1.0,이상지질혈증 약복용 여부,비해당,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YL39234502,1.0,당뇨병 유병여부,결측치,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YL39234502,1.0,고혈압 유병여부,고혈압,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YL39234502,1.0,고콜레스테롤혈증 유병여부,정상,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YL39467001,0.0319999999999998,아침식사 빈도,주5-7회,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YL39467001,0.0319999999999998,평소 스트레스 인지 정도,조금느끼는편임,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YM14479201,0.0159999999999997,아침식사 빈도,주5-7회,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YM14487301,0.1599999999999999,한번에 마시는 음주량,비해당,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YN02274902,0.0159999999999997,아침식사 빈도,주5-7회,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YN14266901,0.0159999999999997,아침식사 빈도,주5-7회,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YN14384104,0.0159999999999997,아침식사 빈도,주5-7회,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YN15256701,0.0159999999999997,아침식사 빈도,주5-7회,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YN15258801,0.0159999999999997,아침식사 빈도,주5-7회,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YN25446802,1.0,최종 수축기 혈압,125.5,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YN25446802,1.0,최종 이완기 혈압,81.5,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YN25446802,1.0,체질량지수,19.408090422367643,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YN25446802,1.0,허리둘레,71.1,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YN25446802,1.0,공복혈당,111.0,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YN25446802,1.0,당화혈색소,5.7,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YN25446802,1.0,총콜레스테롤,215.0,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YN25446802,1.0,HDL-콜레스테롤,63.0,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YN25446802,1.0,중성지방,88.0,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YN25446802,1.0,LDL-콜레스테롤(직접검사),144.0,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YN25446802,1.0,비만 유병여부,정상,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YN25446802,1.0,1년간 체중 변화 여부,변화없음,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YN25446802,1.0,1년간 음주빈도,주2-3회정도,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YN25446802,1.0,한번에 마시는 음주량,1-2잔,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YN25446802,1.0,현재 일반담배 흡연 여부,비해당,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YN25446802,1.0,유산소 신체활동 실천율,미실천,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YN25446802,1.0,아침식사 빈도,주5-7회,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YN25446802,1.0,평소 스트레스 인지 정도,조금느끼는편임,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YN25446802,1.0,혈압조절제 복용 여부,비해당,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YN25446802,1.0,당뇨병약 복용 여부,비해당,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YN25446802,1.0,이상지질혈증 약복용 여부,비해당,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YN25446802,1.0,당뇨병 유병여부,결측치,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YN25446802,1.0,고혈압 유병여부,결측치,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YN25446802,1.0,고콜레스테롤혈증 유병여부,정상,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YN38262801,1.0,최종 수축기 혈압,152.0,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YN38262801,1.0,최종 이완기 혈압,79.5,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YN38262801,1.0,체질량지수,29.02749108650779,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YN38262801,1.0,허리둘레,103.6,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YN38262801,1.0,공복혈당,89.0,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YN38262801,1.0,당화혈색소,6.0,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YN38262801,1.0,총콜레스테롤,112.0,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YN38262801,1.0,HDL-콜레스테롤,49.0,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YN38262801,1.0,중성지방,83.0,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YN38262801,1.0,LDL-콜레스테롤(직접검사),49.0,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YN38262801,1.0,비만 유병여부,1단계비만,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YN38262801,1.0,1년간 체중 변화 여부,체중증가,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YN38262801,1.0,1년간 음주빈도,주2-3회정도,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YN38262801,1.0,한번에 마시는 음주량,5-6잔,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YN38262801,1.0,현재 일반담배 흡연 여부,과거에는피웠으나현재안피움,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YN38262801,1.0,유산소 신체활동 실천율,실천,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YN38262801,1.0,아침식사 빈도,주5-7회,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YN38262801,1.0,평소 스트레스 인지 정도,많이느낌,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YN38262801,1.0,혈압조절제 복용 여부,매일복용함,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YN38262801,1.0,당뇨병약 복용 여부,복용,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YN38262801,1.0,이상지질혈증 약복용 여부,매일복용함,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YN38262801,1.0,당뇨병 유병여부,당뇨병,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YN38262801,1.0,고혈압 유병여부,고혈압,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YN38262801,1.0,고콜레스테롤혈증 유병여부,고콜레스테롤혈증,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YN39495302,0.0159999999999997,현재 일반담배 흡연 여부,비해당,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YO02454903,0.2398740157480314,비만 유병여부,비만전단계,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YO02454903,0.2398740157480314,1년간 체중 변화 여부,체중증가,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YO02454903,0.2398740157480314,1년간 음주빈도,월1회정도,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YO02454903,0.2398740157480314,한번에 마시는 음주량,3-4잔,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YO02454903,0.2398740157480314,현재 일반담배 흡연 여부,비해당,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YO02454903,0.2398740157480314,유산소 신체활동 실천율,실천,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YO02454903,0.2398740157480314,아침식사 빈도,주5-7회,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YO02454903,0.2398740157480314,평소 스트레스 인지 정도,많이느낌,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YO02454903,0.2398740157480314,혈압조절제 복용 여부,비해당,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YO02454903,0.2398740157480314,당뇨병약 복용 여부,비해당,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YO02454903,0.2398740157480314,이상지질혈증 약복용 여부,비해당,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YO02454903,0.2398740157480314,당뇨병 유병여부,정상,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YO02454903,0.2398740157480314,고혈압 유병여부,정상,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YO02454903,0.2398740157480314,고콜레스테롤혈증 유병여부,정상,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YO13254702,0.0159999999999997,아침식사 빈도,주5-7회,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YO15228402,0.0159999999999997,고혈압 유병여부,정상,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YO26220301,0.0159999999999997,아침식사 빈도,거의안함,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YR38277001,0.0159999999999997,아침식사 빈도,주5-7회,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YA71291302,0.0159999999999997,아침식사 빈도,주5-7회,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YA78380301,0.0319999999999998,아침식사 빈도,거의안함,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YA78380301,0.0319999999999998,평소 스트레스 인지 정도,많이느낌,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YA66347902,0.0159999999999997,아침식사 빈도,주5-7회,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YA94400501,0.0159999999999997,아침식사 빈도,주3-4회,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YA79400503,0.0159999999999997,아침식사 빈도,거의안함,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YA68267001,0.0159999999999997,아침식사 빈도,주5-7회,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YA68277101,0.1440180199999998,한번에 마시는 음주량,비해당,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YA72258901,0.0159999999999997,아침식사 빈도,주5-7회,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YA61307402,0.0159999999999997,아침식사 빈도,거의안함,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YA61410602,1.0,최종 수축기 혈압,114.0,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YA61410602,1.0,최종 이완기 혈압,75.5,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YA61410602,1.0,체질량지수,23.97057078438353,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YA61410602,1.0,허리둘레,85.8,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YA61410602,1.0,공복혈당,96.0,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YA61410602,1.0,당화혈색소,5.6,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YA61410602,1.0,총콜레스테롤,149.0,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YA61410602,1.0,HDL-콜레스테롤,62.0,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YA61410602,1.0,중성지방,94.0,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YA61410602,1.0,LDL-콜레스테롤(직접검사),78.0,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YA61410602,1.0,비만 유병여부,비만전단계,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YA61410602,1.0,1년간 체중 변화 여부,체중감소,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YA61410602,1.0,1년간 음주빈도,월1회정도,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YA61410602,1.0,한번에 마시는 음주량,1-2잔,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YA61410602,1.0,현재 일반담배 흡연 여부,비해당,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YA61410602,1.0,유산소 신체활동 실천율,미실천,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YA61410602,1.0,아침식사 빈도,주5-7회,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YA61410602,1.0,평소 스트레스 인지 정도,조금느끼는편임,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YA61410602,1.0,혈압조절제 복용 여부,비해당,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YA61410602,1.0,당뇨병약 복용 여부,비해당,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YA61410602,1.0,이상지질혈증 약복용 여부,매일복용함,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YA61410602,1.0,당뇨병 유병여부,정상,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YA61410602,1.0,고혈압 유병여부,정상,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YA61410602,1.0,고콜레스테롤혈증 유병여부,고콜레스테롤혈증,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YA86265003,0.0159999999999997,아침식사 빈도,거의안함,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YA77396503,0.0319999999999998,HDL-콜레스테롤,49.0,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YA83493601,0.0159999999999997,이상지질혈증 약복용 여부,비해당,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YA83501701,0.0319999999999998,아침식사 빈도,거의안함,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YA83501701,0.0319999999999998,평소 스트레스 인지 정도,조금느끼는편임,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YA57443001,0.0159999999999997,아침식사 빈도,주5-7회,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YA82262901,0.0159999999999997,아침식사 빈도,거의안함,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YA82483402,0.0159999999999997,아침식사 빈도,주3-4회,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YB62309502,0.0159999999999997,아침식사 빈도,주5-7회,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YB62333702,0.0159999999999997,아침식사 빈도,주5-7회,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YB59246801,0.0159999999999997,아침식사 빈도,주5-7회,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YB53422801,0.0159999999999997,아침식사 빈도,주5-7회,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YC78485502,0.0159999999999997,아침식사 빈도,주5-7회,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YC51347902,0.0159999999999997,아침식사 빈도,주5-7회,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YC51368102,1.0,최종 수축기 혈압,107.5,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YC51368102,1.0,최종 이완기 혈압,75.0,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YC51368102,1.0,체질량지수,26.569016345836616,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YC51368102,1.0,허리둘레,86.0,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YC51368102,1.0,공복혈당,90.0,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YC51368102,1.0,당화혈색소,5.3,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YC51368102,1.0,총콜레스테롤,187.0,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YC51368102,1.0,HDL-콜레스테롤,37.0,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YC51368102,1.0,중성지방,275.0,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YC51368102,1.0,LDL-콜레스테롤(직접검사),113.0,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YC51368102,1.0,비만 유병여부,1단계비만,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YC51368102,1.0,1년간 체중 변화 여부,체중증가,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YC51368102,1.0,1년간 음주빈도,월1회미만,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YC51368102,1.0,한번에 마시는 음주량,1-2잔,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YC51368102,1.0,현재 일반담배 흡연 여부,비해당,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YC51368102,1.0,유산소 신체활동 실천율,미실천,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YC51368102,1.0,아침식사 빈도,거의안함,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YC51368102,1.0,평소 스트레스 인지 정도,거의느끼지않음,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YC51368102,1.0,혈압조절제 복용 여부,비해당,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YC51368102,1.0,당뇨병약 복용 여부,비해당,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YC51368102,1.0,이상지질혈증 약복용 여부,비해당,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YC51368102,1.0,당뇨병 유병여부,정상,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YC51368102,1.0,고혈압 유병여부,정상,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YC51368102,1.0,고콜레스테롤혈증 유병여부,정상,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YE84226502,0.0159999999999997,아침식사 빈도,주5-7회,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YE71347901,0.0159999999999997,아침식사 빈도,주5-7회,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YE62293301,0.0159999999999997,한번에 마시는 음주량,3-4잔,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YE78386301,0.0159999999999997,아침식사 빈도,주5-7회,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YG71438902,0.0159999999999997,아침식사 빈도,거의안함,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YH62269001,0.0159999999999997,평소 스트레스 인지 정도,많이느낌,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YH89246802,0.0159999999999997,아침식사 빈도,주3-4회,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YH89341802,0.0159999999999997,아침식사 빈도,주1-2회,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YH66396501,0.0319999999999998,아침식사 빈도,주5-7회,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YH79372201,0.0159999999999997,아침식사 빈도,주5-7회,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YH79461201,0.0159999999999997,아침식사 빈도,주5-7회,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YH81224502,0.0159999999999997,한번에 마시는 음주량,1-2잔,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YH87287201,0.0159999999999997,당화혈색소,5.3,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YH87378302,0.0159999999999997,이상지질혈증 약복용 여부,비해당,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YH87386301,0.0159999999999997,아침식사 빈도,주5-7회,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YH87418701,0.1919999999999999,1년간 음주빈도,주2-3회정도,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YH87418701,0.1919999999999999,한번에 마시는 음주량,7-9잔,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YH87418701,0.1919999999999999,현재 일반담배 흡연 여부,가끔피움,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YH87418701,0.1919999999999999,유산소 신체활동 실천율,실천,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YH87418701,0.1919999999999999,아침식사 빈도,주5-7회,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YH87418701,0.1919999999999999,평소 스트레스 인지 정도,조금느끼는편임,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YH87418701,0.1919999999999999,혈압조절제 복용 여부,비해당,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YH87418701,0.1919999999999999,당뇨병약 복용 여부,비해당,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YH87418701,0.1919999999999999,이상지질혈증 약복용 여부,비해당,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YH87418701,0.1919999999999999,당뇨병 유병여부,정상,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YH87418701,0.1919999999999999,고혈압 유병여부,정상,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YH87418701,0.1919999999999999,고콜레스테롤혈증 유병여부,정상,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YH68388401,0.0159999999999997,아침식사 빈도,주5-7회,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YH86279103,0.0159999999999997,평소 스트레스 인지 정도,조금느끼는편임,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YH86388402,0.112256614264524,이상지질혈증 약복용 여부,비해당,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YH92459202,0.0159999999999997,아침식사 빈도,주1-2회,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YH56230602,0.0319999999999998,아침식사 빈도,주5-7회,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YH57224502,0.0159999999999997,아침식사 빈도,주5-7회,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YH60246803,0.0159999999999997,아침식사 빈도,주5-7회,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YH82315501,0.0159999999999997,아침식사 빈도,주5-7회,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YH95220501,0.0159999999999997,아침식사 빈도,거의안함,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YH95341801,0.0159999999999997,아침식사 빈도,주5-7회,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YH54414701,1.0,최종 수축기 혈압,123.0,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YH54414701,1.0,최종 이완기 혈압,90.5,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YH54414701,1.0,체질량지수,25.209158813001075,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YH54414701,1.0,허리둘레,90.5,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YH54414701,1.0,공복혈당,144.0,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YH54414701,1.0,당화혈색소,6.4,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YH54414701,1.0,총콜레스테롤,237.0,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YH54414701,1.0,HDL-콜레스테롤,76.0,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YH54414701,1.0,중성지방,211.0,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YH54414701,1.0,LDL-콜레스테롤(직접검사),137.0,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YH54414701,1.0,비만 유병여부,1단계비만,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YH54414701,1.0,1년간 체중 변화 여부,변화없음,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YH54414701,1.0,1년간 음주빈도,주2-3회정도,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YH54414701,1.0,한번에 마시는 음주량,7-9잔,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YH54414701,1.0,현재 일반담배 흡연 여부,매일피움,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YH54414701,1.0,유산소 신체활동 실천율,실천,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YH54414701,1.0,아침식사 빈도,주1-2회,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YH54414701,1.0,평소 스트레스 인지 정도,조금느끼는편임,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YH54414701,1.0,혈압조절제 복용 여부,비해당,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YH54414701,1.0,당뇨병약 복용 여부,비해당,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YH54414701,1.0,이상지질혈증 약복용 여부,복용하지않음,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YH54414701,1.0,당뇨병 유병여부,당뇨병,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YH54414701,1.0,고혈압 유병여부,고혈압,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YH54414701,1.0,고콜레스테롤혈증 유병여부,정상,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YH75392402,0.0479999999999998,당뇨병 유병여부,정상,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YH75392402,0.0479999999999998,고혈압 유병여부,정상,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YH75392402,0.0479999999999998,고콜레스테롤혈증 유병여부,정상,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YH64412602,0.0159999999999997,아침식사 빈도,주5-7회,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YI84232601,0.0159999999999997,아침식사 빈도,주1-2회,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YI71287204,0.0159999999999997,아침식사 빈도,주5-7회,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YI71384302,0.0159999999999997,아침식사 빈도,주5-7회,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YI71406601,0.0159999999999997,아침식사 빈도,주5-7회,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YI90461202,0.0159999999999997,아침식사 빈도,주5-7회,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YI62250803,0.1599999999999999,1년간 음주빈도,월2-4회,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YI62250803,0.1599999999999999,한번에 마시는 음주량,3-4잔,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YI62250803,0.1599999999999999,현재 일반담배 흡연 여부,가끔피움,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YI78303401,0.0159999999999997,아침식사 빈도,주5-7회,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YI78329701,1.0,최종 수축기 혈압,121.5,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YI78329701,1.0,최종 이완기 혈압,88.0,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YI78329701,1.0,체질량지수,19.689922944028314,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YI78329701,1.0,허리둘레,75.2,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YI78329701,1.0,공복혈당,122.0,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YI78329701,1.0,당화혈색소,11.2,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YI78329701,1.0,총콜레스테롤,122.0,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YI78329701,1.0,HDL-콜레스테롤,50.0,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YI78329701,1.0,중성지방,63.0,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YI78329701,1.0,LDL-콜레스테롤(직접검사),65.0,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YI78329701,1.0,비만 유병여부,정상,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YI78329701,1.0,1년간 체중 변화 여부,변화없음,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YI78329701,1.0,1년간 음주빈도,최근1년간마신적없음,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YI78329701,1.0,한번에 마시는 음주량,비해당,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YI78329701,1.0,현재 일반담배 흡연 여부,비해당,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YI78329701,1.0,유산소 신체활동 실천율,미실천,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YI78329701,1.0,아침식사 빈도,주5-7회,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YI78329701,1.0,평소 스트레스 인지 정도,조금느끼는편임,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YI78329701,1.0,혈압조절제 복용 여부,비해당,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YI78329701,1.0,당뇨병약 복용 여부,복용,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YI78329701,1.0,이상지질혈증 약복용 여부,비해당,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YI78329701,1.0,당뇨병 유병여부,당뇨병,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YI78329701,1.0,고혈압 유병여부,결측치,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YI78329701,1.0,고콜레스테롤혈증 유병여부,정상,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YJ59548202,0.0159999999999997,아침식사 빈도,주5-7회,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YK84410601,0.0159999999999997,아침식사 빈도,거의안함,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YK90358001,0.0159999999999997,아침식사 빈도,거의안함,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YK90376202,0.2398461538461538,비만 유병여부,정상,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YK90376202,0.2398461538461538,1년간 체중 변화 여부,변화없음,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YK90376202,0.2398461538461538,1년간 음주빈도,월1회미만,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YK90376202,0.2398461538461538,한번에 마시는 음주량,1-2잔,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YK90376202,0.2398461538461538,현재 일반담배 흡연 여부,비해당,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YK90376202,0.2398461538461538,유산소 신체활동 실천율,실천,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YK90376202,0.2398461538461538,아침식사 빈도,주5-7회,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YK90376202,0.2398461538461538,평소 스트레스 인지 정도,조금느끼는편임,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YK90376202,0.2398461538461538,혈압조절제 복용 여부,비해당,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YK90376202,0.2398461538461538,당뇨병약 복용 여부,비해당,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YK90376202,0.2398461538461538,이상지질혈증 약복용 여부,비해당,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YK90376202,0.2398461538461538,당뇨병 유병여부,정상,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YK90376202,0.2398461538461538,고혈압 유병여부,정상,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YK90376202,0.2398461538461538,고콜레스테롤혈증 유병여부,정상,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YK59281102,0.0159999999999997,아침식사 빈도,주5-7회,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YK89465202,0.0159999999999997,아침식사 빈도,주5-7회,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YK51447001,0.0159999999999997,아침식사 빈도,주5-7회,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YL84398501,0.0159999999999997,아침식사 빈도,주5-7회,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YL71422802,0.0159999999999997,아침식사 빈도,주5-7회,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YL62275101,0.0159999999999997,아침식사 빈도,주1-2회,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YL89392401,0.1919999999999999,한번에 마시는 음주량,10잔이상,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YL89392401,0.1919999999999999,현재 일반담배 흡연 여부,과거에는피웠으나현재안피움,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YL89392401,0.1919999999999999,유산소 신체활동 실천율,실천,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YL89392401,0.1919999999999999,아침식사 빈도,거의안함,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YL89392401,0.1919999999999999,평소 스트레스 인지 정도,대단히많이느낌,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YL89392401,0.1919999999999999,혈압조절제 복용 여부,비해당,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YL89392401,0.1919999999999999,당뇨병약 복용 여부,비해당,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YL89392401,0.1919999999999999,이상지질혈증 약복용 여부,비해당,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YL89392401,0.1919999999999999,당뇨병 유병여부,정상,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YL89392401,0.1919999999999999,고혈압 유병여부,정상,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YL89392401,0.1919999999999999,고콜레스테롤혈증 유병여부,고콜레스테롤혈증,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YM71248802,0.0319999999999998,아침식사 빈도,주5-7회,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YM71248802,0.0319999999999998,평소 스트레스 인지 정도,조금느끼는편임,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YM89337802,1.0,최종 수축기 혈압,125.0,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YM89337802,1.0,최종 이완기 혈압,63.5,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YM89337802,1.0,체질량지수,26.323615787336728,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YM89337802,1.0,허리둘레,85.0,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YM89337802,1.0,공복혈당,86.0,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YM89337802,1.0,당화혈색소,5.6,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YM89337802,1.0,총콜레스테롤,163.0,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YM89337802,1.0,HDL-콜레스테롤,45.0,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YM89337802,1.0,중성지방,104.0,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YM89337802,1.0,LDL-콜레스테롤(직접검사),103.0,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YM89337802,1.0,비만 유병여부,1단계비만,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YM89337802,1.0,1년간 체중 변화 여부,변화없음,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YM89337802,1.0,1년간 음주빈도,비해당,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YM89337802,1.0,한번에 마시는 음주량,비해당,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YM89337802,1.0,현재 일반담배 흡연 여부,비해당,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YM89337802,1.0,유산소 신체활동 실천율,미실천,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YM89337802,1.0,아침식사 빈도,주5-7회,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YM89337802,1.0,평소 스트레스 인지 정도,거의느끼지않음,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YM89337802,1.0,혈압조절제 복용 여부,매일복용함,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YM89337802,1.0,당뇨병약 복용 여부,비해당,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YM89337802,1.0,이상지질혈증 약복용 여부,매일복용함,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YM89337802,1.0,당뇨병 유병여부,정상,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YM89337802,1.0,고혈압 유병여부,고혈압,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YM89337802,1.0,고콜레스테롤혈증 유병여부,고콜레스테롤혈증,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YN51337801,0.0159999999999997,아침식사 빈도,주5-7회,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YO90218404,0.0159999999999997,아침식사 빈도,주5-7회,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YO62394403,0.0159999999999997,LDL-콜레스테롤(직접검사),84.0,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YO89238701,0.0159999999999997,이상지질혈증 약복용 여부,비해당,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YO94455101,0.3923809523809523,당화혈색소,5.0,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YO94455101,0.3923809523809523,총콜레스테롤,122.0,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YO94455101,0.3923809523809523,HDL-콜레스테롤,35.0,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YO94455101,0.3923809523809523,중성지방,230.0,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YO94455101,0.3923809523809523,LDL-콜레스테롤(직접검사),60.0,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YO94455101,0.3923809523809523,비만 유병여부,비만전단계,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YO94455101,0.3923809523809523,1년간 체중 변화 여부,변화없음,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YO94455101,0.3923809523809523,1년간 음주빈도,월1회미만,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YO94455101,0.3923809523809523,한번에 마시는 음주량,3-4잔,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YO94455101,0.3923809523809523,현재 일반담배 흡연 여부,과거에는피웠으나현재안피움,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YO94455101,0.3923809523809523,유산소 신체활동 실천율,미실천,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YO94455101,0.3923809523809523,아침식사 빈도,주5-7회,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YO94455101,0.3923809523809523,평소 스트레스 인지 정도,조금느끼는편임,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YO94455101,0.3923809523809523,혈압조절제 복용 여부,매일복용함,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
+YP90289202,0.0159999999999997,한번에 마시는 음주량,비해당,,,False,Extraction Failure,Extraction Failure,null/empty 반환,범주형
